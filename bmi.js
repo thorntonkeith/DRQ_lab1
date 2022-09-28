@@ -1,3 +1,4 @@
+//Class
 class Bmi {
   //Constructor
   constructor(height, weight) {
@@ -19,5 +20,5 @@ class Bmi {
 //Instance of Class
 const joe = new Bmi(175, 183);
 
-//Console log showing output
+//Console log displaying output
 console.log(joe.total);
